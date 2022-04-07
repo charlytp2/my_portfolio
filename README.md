@@ -7,7 +7,7 @@
   <p align="center">
     An awesome Portfolio template to jumpstart your Carrier!
     <br />
-    <a href="https://gdsc-svvv.github.io/sample-portfolio/">View Demo</a>
+    <a href="https://charlytp2.github.io/my_portfolio/">View Demo</a>
   </p>
 </div>
 
